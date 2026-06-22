@@ -1,0 +1,13 @@
+/* Place your CSS styles in this file */
+
+#container { max-width: 1200px;
+margin: auto;}
+h1 {
+    text-align: center;
+    font-family: "Arial", sans-serif;
+    background-color:lightblue;
+    font-weight: normal;
+    margin: 20px;
+
+}
+h3{background-color:lightblue}
